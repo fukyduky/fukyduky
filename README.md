@@ -1,4 +1,26 @@
-### Hi there 👋
+### Hi! I'm [**@fukyduky**](https://github.com/fukyduky) (Evgeniy Gruzintcev). I live in St. Petersburg and I am Python developer.
+
+- 🌱 I'm currently studying software development at [@Practicum](https://practicum.yandex.com).
+- 💬 My skills: Python, Django Framework, Git, PostgreSQL, MySQL, Linux, Nginx, Docker, REST API, pytest
+- 📫 You can reach me: Telegram @evgeniygruzintcev, e-mail fukyduky@gmail.com
+
+
+<!--
+
+**fukyduky/fukyduky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!--
 **fukyduky/fukyduky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
