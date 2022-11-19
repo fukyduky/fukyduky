@@ -1,4 +1,4 @@
-### Hi! I'm [**@fukyduky**](https://github.com/fukyduky) (Evgeniy Gruzintcev). I live in St. Petersburg and I am Python developer.
+### Hi! I'm Evgeniy Gruzintcev. I live in St. Petersburg and I am Python developer.
 
 - 🌱 I'm currently studying software development at [@Practicum](https://practicum.yandex.com).
 - 💬 My skills: Python, Django Framework, Django Rest Framework, Git, PostgreSQL, Linux, Nginx, Docker, REST API, pytest
